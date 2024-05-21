@@ -1,3 +1,4 @@
+## Overview
 Welcome to the Population Control System project! This digital circuit is designed to control population in high traffic areas by providing clear analysis and alerts.
 It displays the current population count on an LCD screen and sets a maximum limit based on the area's density. When the count reaches the maximum limit, the system indicates that the area is full.
 Additionally, if someone attempts to enter the area beyond the maximum limit, the system alerts with an overcrowding message and activates a buzzer for further alerting.
